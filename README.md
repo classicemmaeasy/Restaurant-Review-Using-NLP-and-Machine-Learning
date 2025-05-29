@@ -10,8 +10,7 @@ Understanding customer feedback has become more crucial than ever. Sentiment ana
 
 
 
-![Image](https://github.com/user-attachments/assets/873d2b6c-28d4-478a-9805-605f8c807893)
-
+![Image](https://github.com/user-attachments/assets/799eeb66-74dd-4870-925f-6d8d0cc2f33b)
 
 
 ## Project Workflow: Restaurant Review Sentiment Analysis
