@@ -42,4 +42,3 @@ This project emphasized the importance of retaining critical words that influenc
 
 ![Image](https://github.com/user-attachments/assets/31144d15-c174-41b6-8f91-b014cc8c2b9d)
 
-![Image](https://github.com/user-attachments/assets/c13ab986-6b8b-47e7-9667-030c59dbe598)
