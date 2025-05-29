@@ -11,7 +11,7 @@ In today’s competitive market, understanding customer feedback has become more
 - **Enhancing Customer Satisfaction:** By understanding and acting on customer feedback, restaurants can tailor their offerings and services to better meet expectations, creating a more satisfying dining experience.
 
 
-![Image](https://github.com/user-attachments/assets/c74eafff-e948-4a10-8fd2-e4deed02fb2a)
+![Image](https://github.com/user-attachments/assets/873d2b6c-28d4-478a-9805-605f8c807893)
 
 
 ## Project Workflow: Restaurant Review Sentiment Analysis
@@ -39,3 +39,6 @@ With the features ready, I trained a machine learning model using the Support Ve
 ### 5. Key Insights and Learnings
 
 This project emphasized the importance of retaining critical words that influence sentiment interpretation. Words like "not" can completely change the meaning of a sentence, making the use of custom stopwords essential in the preprocessing stage. Through careful tuning, the model became not only accurate but also contextually aware of subtle language nuances.
+
+![Image](https://github.com/user-attachments/assets/41ba3c5c-f4c2-42d5-a86b-3d08bd93fb23)
+![Image](https://github.com/user-attachments/assets/98f4f45d-1780-4842-a961-f34d86d36eb8)
