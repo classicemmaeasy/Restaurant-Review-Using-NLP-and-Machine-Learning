@@ -10,7 +10,8 @@ In today’s competitive market, understanding customer feedback has become more
 - **Addressing Weaknesses:** Spotting common complaints or issues like slow service or a noisy environment, allowing for timely improvements.
 - **Enhancing Customer Satisfaction:** By understanding and acting on customer feedback, restaurants can tailor their offerings and services to better meet expectations, creating a more satisfying dining experience.
 
-https://github.com/classicemmaeasy/Restaurant-Review-Using-NLP-and-Machine-Learning/blob/main/nlp%20restauramt.JPG?raw=true
+
+![Image](https://github.com/user-attachments/assets/c74eafff-e948-4a10-8fd2-e4deed02fb2a)
 
 
 ## Project Workflow: Restaurant Review Sentiment Analysis
