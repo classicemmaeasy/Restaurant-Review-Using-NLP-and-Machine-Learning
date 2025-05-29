@@ -30,7 +30,7 @@ Understanding customer feedback has become more crucial than ever. Sentiment ana
 4. **Sentiment Classification: Building the Model**  
    With the features ready, I trained machine learning models using an ML algorithm to classify the sentiment of reviews. ML algorithms like Support Vector Machines (SVM) helped build a robust model that can predict whether a review is positive or negative with impressive accuracy. They are widely used for textual data because they effectively handle high-dimensional feature spaces.
 
-5. **Key Insights and Learnings**  
+## **Key Insights and Learnings**  
    The process underscored the importance of retaining critical words that could drastically alter sentiment. Words like "not" can completely flip the meaning of a sentence, making custom stopwords a vital part of the preprocessing pipeline. This fine-tuning ensures that the models aren't just accurate but also contextually aware.
 
 ![Image](https://github.com/user-attachments/assets/31144d15-c174-41b6-8f91-b014cc8c2b9d)
